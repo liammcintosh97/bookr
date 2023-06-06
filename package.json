@@ -1,0 +1,23 @@
+{
+  "name": "bookr",
+  "version": "0.0.1",
+  "description": "A lightwieght SDK for interfacing with various booking APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liammcintosh97/bookr.git"
+  },
+  "author": "Liam Alton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liammcintosh97/bookr/issues"
+  },
+  "homepage": "https://github.com/liammcintosh97/bookr#readme",
+  "type": "module",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

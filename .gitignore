@@ -1,0 +1,4 @@
+*.brc.js
+test.js
+!example.brc.js
+/node_modules
